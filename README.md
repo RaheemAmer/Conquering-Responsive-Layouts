@@ -1,1 +1,1 @@
-# Conquering-Responsive-Layouts Course (21 Days Challenge)
+# Conquering-Responsive-Layouts (21 Days Challenge)

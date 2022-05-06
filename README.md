@@ -24,4 +24,3 @@ Days | Completed | Notes
 👉 Day19 | ✅ Day19 | ⭕️ [Challenge](https://github.com/RaheemAmer/Conquering-Responsive-Layouts/blob/main/Day8)
 👉 Day20 | ✅ Day20 | ⭕️ [Challenge](https://github.com/RaheemAmer/Conquering-Responsive-Layouts/blob/main/Day8)
 👉 Day21 | ✅ Day21 | ⭕️ [Challenge](https://github.com/RaheemAmer/Conquering-Responsive-Layouts/blob/main/Day8) -->
-

@@ -1,5 +1,4 @@
 # Conquering-Responsive-Layouts (21 Days Challenge)
-A repo where I will document my tasks during my apprenticeship at Route academy 
 Days | Completed | Notes
 ------------ | ------------- | -------------
 👉 Day0 | ✅ Day0 | ⭕️ [Challenge](https://github.com/RaheemAmer/Conquering-Responsive-Layouts/blob/main/Day0)
